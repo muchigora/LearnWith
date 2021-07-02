@@ -8,9 +8,6 @@
  */
 public class ComputeExpressions {
 
-	/**
-	 * @param args
-	 */
 	
 	
 	public static void main(String[] args) {
