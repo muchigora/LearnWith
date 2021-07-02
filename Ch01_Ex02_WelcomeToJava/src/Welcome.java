@@ -7,11 +7,11 @@ public class Welcome {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String message = "Welcome to Java";
-		
-		for (int i = 0; i<5; i++) {
-			System.out.println(message);
-		}
+		System.out.println("Welcome to Java");
+		System.out.println("Welcome to Java");
+		System.out.println("Welcome to Java");
+		System.out.println("Welcome to Java");
+		System.out.println("Welcome to Java");
 		
 
 	}
